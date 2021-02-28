@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065729868933",
+    "project_id": "task-d1ed0",
+    "storage_bucket": "task-d1ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065729868933:android:b909168eda40edb94a55ec",
+        "android_client_info": {
+          "package_name": "app.com.paypal_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065729868933-hd1irm02cfubftgn0ku1s667c52ifeel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgHxzf0AQY_1PBCgBWSA-idT_5zOgMEj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065729868933-hd1irm02cfubftgn0ku1s667c52ifeel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
